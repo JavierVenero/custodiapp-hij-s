@@ -14,8 +14,7 @@ const App = () => {
     const comprobarActualizacion = async () => {
       try {
         // En esta fase de prueba, leemos el archivo local que creaste
-        const respuesta = await fetch('/version.json');
-        const datos = await respuesta.json();
+const respuesta = await fetch('https://javiervenero.github.io/custodiapp-hij@s/version.json');        const datos = await respuesta.json();
         
         if (datos.version !== VERSION_LOCAL) {
           setHayNuevaVersion(true);
