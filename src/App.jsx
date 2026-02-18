@@ -107,7 +107,7 @@ const App = () => {
   useEffect(() => {
     const comprobarActualizacion = async () => {
       try {
-const URL_VERSION = "https://raw.githubusercontent.com/JavierVenero/custodiapp-hij-s/main/src/version.json";        const datos = await respuesta.json();
+const URL_VERSION = "https://raw.githubusercontent.com/JavierVenero/custodiapp-hij-s/main/src/version.json");        const datos = await respuesta.json();
         if (datos.version !== VERSION_LOCAL) {
           setHayNuevaVersion(true);
         }
