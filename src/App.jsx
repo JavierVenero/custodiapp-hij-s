@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-const VERSION_LOCAL = "9.0.1"; // Identificador de esta versión
+const VERSION_LOCAL = "9.0.0"; // Identificador de esta versión
 import { 
   Settings, ChevronLeft, ChevronRight, 
   Trash2, Upload, Save, Info, ArrowLeft, X, Calendar, Check
