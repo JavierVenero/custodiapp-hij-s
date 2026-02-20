@@ -1,4 +1,4 @@
-package com.custodiapp.care;
+package com.custodiapp.app;
 
 import com.getcapacitor.BridgeActivity;
 

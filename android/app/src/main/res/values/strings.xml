@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">CustodiApp Cuidados</string>
-    <string name="title_activity_main">CustodiApp Cuidados</string>
-    <string name="package_name">com.custodiapp.care</string>
-    <string name="custom_url_scheme">com.custodiapp.care</string>
+    <string name="app_name">CustodiApp</string>
+    <string name="title_activity_main">CustodiApp</string>
+    <string name="package_name">com.custodiapp</string>
+    <string name="custom_url_scheme">com.custodiapp</string>
 </resources>
