@@ -1,5 +1,4 @@
-{
-  "appId": "com.custodiapp.care",
-  "appName": "CustodiApp Cuidados",
-  "webDir": "dist"
+{"appId": "com.custodiapp.app"
+"appName": "CustodiApp"
+"webDir": "dist"
 }

@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://custodiapp.es/sitemap.xml
+
